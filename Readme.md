@@ -19,6 +19,5 @@ Ejemplos de ramas:
 
 ```bash
 ├── main
-├── bee-box
 ├── bwapp
 ├── metasploitable2
